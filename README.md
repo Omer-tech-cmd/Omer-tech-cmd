@@ -1,12 +1,14 @@
 <h1>Hi, I'm Omer, an <a href="https://linkedin.com/in/omer-faruk-yurtsever">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects and Tutorials:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Omer-tech-cmd/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Omer-tech-cmd/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Omer-tech-cmd/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Setting Up and Remotely Connecting to Azure VMs](https://github.com/Omer-tech-cmd/azure-vm-creation)
+  - [Transferring and Observing Packets Between Azure VMs](https://github.com/Omer-tech-cmd/packet-obs)
   - [Configuring Active Directory within Azure VMs](https://github.com/Omer-tech-cmd/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Omer-tech-cmd/azure-network-protocols)
 
