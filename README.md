@@ -7,10 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Omer-tech-cmd/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Omer-tech-cmd/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting Up and Remotely Connecting to Azure VMs](https://github.com/Omer-tech-cmd/azure-vm-creation)
-  - [Transferring and Observing Packets Between Azure VMs](https://github.com/Omer-tech-cmd/packet-obs)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Omer-tech-cmd/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Omer-tech-cmd/azure-network-protocols)
+  - [Microsoft Azure: Setting Up and Remotely Connecting to Azure VMs](https://github.com/Omer-tech-cmd/azure-vm-creation)
+  - [Microsoft Azure: Transferring and Observing Packets Between Azure VMs](https://github.com/Omer-tech-cmd/packet-obs)
+  - [Microsoft Azure: Configuring Active Directory within Azure VMs](https://github.com/Omer-tech-cmd/configure-ad)
+  - [Microsoft Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Omer-tech-cmd/azure-network-protocols)
 - <b>VPN</b>
   - [Setting Up and Observing The Effects of VPN on Our Public IPv4 Address](https://github.com/Omer-tech-cmd/setting-up-vpn)
 
